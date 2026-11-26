@@ -1,16 +1,30 @@
-## Hi there 👋
+# Pranees
 
-<!--
-**pranees2004/pranees2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Web development · Android · Automation
 
-Here are some ideas to get you started:
+I build web interfaces and Android applications, and explore automation with Python. My projects span React and Next.js websites, Kotlin apps, and practical tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected projects
+
+### [The Pravile](https://github.com/pranees2004/portfolio)
+A software services website with a 3D scene, scroll reveals, and a responsive interface.
+
+**Next.js · TypeScript · React**
+
+### [Sleep Tracker](https://github.com/pranees2004/Sleep-tracker-android-app-in-kotlin)
+An Android app for recording sleep sessions and reviewing locally stored time logs. Includes screenshots and a demo video in the repository.
+
+**Kotlin · Jetpack Compose · SQLite**
+
+### [Agri Wise Plan](https://github.com/pranees2004/agri-wise-plan)
+An agriculture planning prototype with farmer and admin interfaces, land entry, and crop area allocation using sample recommendations.
+
+**React · TypeScript · Vite · Tailwind CSS**
+
+## Technologies
+
+- **Web:** TypeScript, JavaScript, React, Next.js, Tailwind CSS
+- **Android:** Kotlin, Jetpack Compose
+- **Backend & automation:** Python, Node.js, Express, MongoDB
+
+[Explore my repositories →](https://github.com/pranees2004?tab=repositories)
